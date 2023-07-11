@@ -1,10 +1,10 @@
-title: Available notes
+title: Notes disponibles
 hero_image: images/banner.png
-description: A list of notes that can be used in MicroPython alongside picozero
+description: Une liste de notes pouvant être utilisées dans MicroPython avec picozero
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-03-10"
 steps:
   - 
-    title: Available notes
+    title: Notes disponibles
