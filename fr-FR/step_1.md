@@ -1,8 +1,8 @@
-There are 88 notes available to use with the `picozero` library. They link to western musical notation and are all of the notes that you can find on a full size keyboard.
+Il y a 88 notes disponibles à utiliser avec la bibliothèque `picozero`. Elles sont liées à la notation musicale occidentale et correspondent à toutes les notes que tu peux trouver sur un clavier standard.
 
-![All of the notes on a keyboard.](images/keyboard.png)
+![Toutes les notes d'un clavier.](images/keyboard.png)
 
-The notes available are:
+Les notes disponibles sont :
 
 + b0
 + c1
@@ -41,7 +41,7 @@ The notes available are:
 + a3
 + a#3
 + b3
-+ c4 - This is middle C on a keyboard
++ c4 : c'est le middle C (do central) d'un clavier
 + c#4
 + d4
 + d#4
