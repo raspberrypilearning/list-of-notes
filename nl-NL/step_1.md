@@ -1,4 +1,4 @@
-Er zijn 88 muzieknoten beschikbaar in de `picozero` bibliotheek. Ze linken naar westerse muzikale notatie en zijn alle noten die je kunt vinden op een toetsenbord van volledige grootte.
+Er zijn 88 muzieknoten beschikbaar in de `picozero` bibliotheek. Ze verwijzen naar de westerse muzikale notatie en zijn alle noten die je kunt vinden op een toetsenbord van volledige grootte.
 
 ![Alle noten op een toetsenbord.](images/keyboard.png)
 
